@@ -56,10 +56,6 @@
   <a href="mailto:christopher.crepin.72000@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23A08B8B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://github.com/SNEUUD" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%23808D9E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 <p align="center">
