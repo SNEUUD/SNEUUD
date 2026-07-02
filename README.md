@@ -20,7 +20,6 @@
 **Back-end**
 
 ![Node.js](https://img.shields.io/badge/Node.js-%238FA98E?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23849AB0?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23B0967C?style=for-the-badge&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%237E9E97?style=for-the-badge&logo=prisma&logoColor=white)
 
@@ -34,7 +33,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%237C9CB0?style=for-the-badge&logo=docker&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-%238B84A6?style=for-the-badge&logo=coolify&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-%237E9E97?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23A0987C?style=for-the-badge&logo=linux&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23849AB0?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -42,7 +40,6 @@
 
 ![Git](https://img.shields.io/badge/Git-%23B0967C?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23808D9E?style=for-the-badge&logo=github&logoColor=white)
-![Redmine](https://img.shields.io/badge/Redmine-%23A08B8B?style=for-the-badge&logo=redmine&logoColor=white)
 
 ---
 
