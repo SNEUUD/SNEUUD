@@ -1,4 +1,4 @@
-<h1 align="left">👋 Salut, moi c'est Christopher</h1>
+<h1 align="left">👋 Salut, moi c'est Chris</h1>
 
 <p align="left">
   💻 <strong>Développeur Full-Stack · Freelance</strong><br/>
