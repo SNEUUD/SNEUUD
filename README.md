@@ -3,22 +3,8 @@
 <p align="left">
   💻 <strong>Développeur Full-Stack · Freelance</strong><br/>
   🎓 Mastère Architecture &amp; Applications logicielles des SI — <strong>CESI Le Mans</strong> · Alternant <strong>@KLOCEL</strong><br/>
-  🌍 Basé au Mans (72), France · dispo en télétravail ou sur site<br/>
-  🚗 Passionné d'automobile &amp; de sport auto — <em>du front à l'infra, je conçois, développe et déploie</em>
+  🌍 Basé au Mans (72), France<br/>
 </p>
-
----
-
-## 🚀 Projet phare — Staylow
-
-Plateforme web full-stack pour découvrir les événements automobiles (rencontres, trackdays) sur une **carte interactive** : authentification, géocodage d'adresses, stockage de fichiers, e-mails transactionnels — le tout **auto-hébergé de bout en bout** (VPS Linux durci, Coolify, Traefik, CI/CD).
-
-![Next.js](https://img.shields.io/badge/Next.js-%23E10600?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23C7050B?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23A50410?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23820512?style=for-the-badge&logo=postgresql&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-%23610414?style=for-the-badge&logo=leaflet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23400313?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
