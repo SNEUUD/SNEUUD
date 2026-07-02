@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://ccrepin.freeboxos.fr/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%237C9CB0?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%237C9CB0?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:christopher.crepin.72000@gmail.com">
